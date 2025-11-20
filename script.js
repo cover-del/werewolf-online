@@ -229,4 +229,5 @@ function _renderVoteList(room){
 }
 </script>
 
-const API = "https://script.google.com/macros/s/AKfycbx123456789/exec";
+const API = "https://script.google.com/macros/s/AKfycbxgN605OVZ6tjibrC4hEC4-zgS2_wuGza5c5QnM1vs/dev";
+
