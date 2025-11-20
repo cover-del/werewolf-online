@@ -228,3 +228,5 @@ function _renderVoteList(room){
   actionArea.appendChild(list);
 }
 </script>
+
+const API = "https://script.google.com/macros/s/AKfycbx123456789/exec";
